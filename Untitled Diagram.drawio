@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-02-29T18:34:27.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="BCAlZ6mnx0d4_KsM1x7_" version="24.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T20:23:44.422Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="AT5LfrRAZ_JejqKWxlaI" version="24.0.0" type="github">
   <diagram name="Page-1" id="0l3S1QFlzR1PN56lLV7u">
-    <mxGraphModel dx="913" dy="2801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="2635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-1" value="View Applications" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-1" value="View Applications" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="-1960" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-2" value="Business&lt;div&gt;Owner&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-2" value="Business&lt;div&gt;Owner&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="-1850" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-1" target="qHE-Qj3qK6AdPJUf5GN5-2">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-1" target="qHE-Qj3qK6AdPJUf5GN5-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="-1770" as="sourcePoint" />
             <mxPoint x="20" y="-1930" as="targetPoint" />
@@ -19,19 +19,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-5" value="A small test for users by AI (Question will be given by respective business)&lt;div&gt;to further short list&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-5" value="A small test for users by AI (Question will be given by respective business)&lt;div&gt;to further short list&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="-1980" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-6" value="AI will see applicants skill and other qualification and sort them on the basis of requirement set by business" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-6" value="AI will see applicants skill and other qualification and sort them on the basis of requirement set by business" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="-1830" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-7" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-7" value="Candidate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="-1780" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-10" value="User registration" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="-1700" width="120" height="60" as="geometry" />
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-10" value="Candidate&lt;div&gt;registration&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="180" y="-1700" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-5" target="qHE-Qj3qK6AdPJUf5GN5-1">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-5" target="qHE-Qj3qK6AdPJUf5GN5-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="290" y="-1820" as="sourcePoint" />
             <mxPoint x="340" y="-1870" as="targetPoint" />
@@ -43,7 +43,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-10" target="qHE-Qj3qK6AdPJUf5GN5-7">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-10" target="qHE-Qj3qK6AdPJUf5GN5-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="-1800" as="sourcePoint" />
             <mxPoint x="390" y="-1850" as="targetPoint" />
@@ -52,7 +52,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-7" target="qHE-Qj3qK6AdPJUf5GN5-6">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-7" target="qHE-Qj3qK6AdPJUf5GN5-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="-1800" as="sourcePoint" />
             <mxPoint x="390" y="-1850" as="targetPoint" />
@@ -63,24 +63,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-6" target="qHE-Qj3qK6AdPJUf5GN5-5">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-6" target="qHE-Qj3qK6AdPJUf5GN5-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="-1800" as="sourcePoint" />
             <mxPoint x="390" y="-1850" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-16" value="AI will rank candidates based on the &lt;b&gt;accuracy and time taken&lt;/b&gt; in the test and display them according to rank" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-16" value="AI will rank candidates based on the &lt;b&gt;accuracy and time taken&lt;/b&gt; in the test and display them according to rank" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="-2050" width="370" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-17" value="Only Top &lt;b&gt;50%&lt;/b&gt; will be short listed for question round" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-17" value="Only Top &lt;b&gt;50%&lt;/b&gt; will be short listed for question round" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="670" y="-1880" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-18" value="AI will only show you to business with the requirement satisfied" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-18" value="AI will only show you to business with the requirement satisfied" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="400" y="-1670" width="340" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-19" value="User will enter their details" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="-1685" width="110" height="30" as="geometry" />
+        <mxCell id="qHE-Qj3qK6AdPJUf5GN5-19" value="Candidate&amp;nbsp;will enter the form and their CV" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="-1685" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="ff0L9XpFBWpxdVOWdkGR-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qHE-Qj3qK6AdPJUf5GN5-2" target="qHE-Qj3qK6AdPJUf5GN5-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="-1810" as="sourcePoint" />
+            <mxPoint x="470" y="-1860" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="-1810" />
+              <mxPoint x="510" y="-1810" />
+              <mxPoint x="510" y="-1785" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ff0L9XpFBWpxdVOWdkGR-2" value="Post requirement for Job&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="-1840" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
